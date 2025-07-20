@@ -39,8 +39,8 @@ cp wallet.json.example wallet.json
 
 ```json
 {
-  "priv": "private-key-here",
-  "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "priv": c4a306666f3c075a70fce260e057bc468dbb9b2331499f6ca20487f7c045ef25"",
+  "addr": "octC9LjE9bTtC5fGf8qHVAA4UmKpT6BiFvcEP9kDTaKX9AG",
   "rpc": "https://octra.network"
 }
 ```
